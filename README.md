@@ -31,7 +31,7 @@
     ## Key Outputs
     A cost-to-serve diagnostic showing where standardisation and automation can reduce cost and backlog.
 
-    ## Resume Bullets
+    
     - Built cost-to-serve diagnostic for public-sector operations using cost, turnaround time, backlog and rework metrics.
 - Recommended workflow standardisation, first-touch automation and rework-control interventions.
 
