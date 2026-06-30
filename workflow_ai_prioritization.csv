@@ -1,0 +1,5 @@
+process,volume,manual_effort_hours,error_rate_pct,automation_potential,citizen_impact,implementation_complexity
+document verification,1400,420,11,82,78,55
+grievance triage,2100,600,16,88,85,58
+status communication,3500,380,8,91,70,35
+field escalation,700,260,14,60,82,70

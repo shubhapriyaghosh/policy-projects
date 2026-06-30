@@ -1,0 +1,5 @@
+unit,cases,avg_cost_per_case,avg_tat_days,backlog,rework_pct,automation_rate_pct
+Zone 1,1100,210,14,180,9,20
+Zone 2,900,260,19,260,13,12
+Zone 3,1350,190,12,140,7,28
+Zone 4,760,275,21,230,15,10
